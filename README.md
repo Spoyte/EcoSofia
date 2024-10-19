@@ -11,18 +11,15 @@ We're mashing up blockchain, AI, and a dash of civic enthusiasm to create a plat
 ## The Cool Stuff We're Using
 
 - **Chainbase**: Our AI brain that crunches urban data and spits out eco-wisdom
-- **Internet Computer Protocol (ICP)**: The blockchain backbone of our operation
 - **iExec and zkVerify**: For when you want to vote on that new park, but don't want your nosy neighbor to know
-- **Sui's Walrus**: Where we store all our brilliant green ideas
 - **Blocksense**: Our eyes and ears on the ground, feeding us real-time environmental data
-- **PING42**: Our very own eco-currency (no, you can't mine it by leaving your computer on 24/7)
 - **SEEBLOCKS**: Keeping us in line with fancy ISO standards
 
 ## What Can You Do Here?
 
 1. **Propose a Green Initiative**: Got an idea for a community garden? A solar-powered unicycle sharing system? Bring it on!
 2. **Vote on Projects**: Like democracy, but for trees and stuff.
-3. **Earn PING42 Tokens**: Get rewarded for not turning Sofia into a concrete jungle.
+3. **Earn Rewards**: Get rewarded for not turning Sofia into a concrete jungle.
 4. **Analyze Environmental Impact**: Use our AI to check if your brilliant idea won't accidentally summon Godzilla.
 5. **Track Real-time Eco Data**: Air quality, energy usage, how many times the mayor used their bike this week - it's all here.
 
